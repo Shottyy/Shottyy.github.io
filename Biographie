@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+        <style>
+            table, th, td {
+  border: 1px solid;
+}
+        </style>
+    </head>
+    <body>
+    
+        <h1>Biographie</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Compétences Technologiques</th>
+                    <th>Niveau de Compétences</th>
+                </tr>
+                
+            </thead>
+            <tbody>
+                <tr>
+                    <td>HTML</td>
+                    <td>Compétent</td>
+                </tr>
+                <tr>
+                    <td>CSS</td>
+                    <td>Compétent</td>
+                </tr>
+                <tr>
+                    <td>Python</td>
+                    <td>Débutant</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
